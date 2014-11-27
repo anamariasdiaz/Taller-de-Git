@@ -1,5 +1,7 @@
-Taller-de-GitMad Ana
-=============
+<<<<<<< HEAD
+Taller-de-Git Mad Ana
+=======
+
 (Marca de MadAna)Modificada
 Taller práctico de Git para el curso de formación del profesorado en computación nube.
 
