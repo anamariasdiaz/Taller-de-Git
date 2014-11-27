@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Taller-de-Git Mad Ana desde master
+
+Taller-de-Git Mad Ana Mezclado
 =======
 
 (Marca de MadAna)Modificada
