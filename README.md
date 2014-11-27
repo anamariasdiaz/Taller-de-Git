@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Taller-de-Git Mad Ana
+Taller-de-Git Mad Ana desde master
 =======
 
 (Marca de MadAna)Modificada
